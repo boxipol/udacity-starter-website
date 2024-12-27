@@ -10,3 +10,6 @@ index.html - The Index document for the website.
 /css - CSS files for the website.
 
 
+http://my-732963744398-bucket.s3-website-us-east-1.amazonaws.com
+
+https://d311kuf6v0ij16.cloudfront.net
